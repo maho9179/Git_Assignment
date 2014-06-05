@@ -1,2 +1,2 @@
-Matt Hong
-Git Practice
+Name : Matt Hong
+Assignment : Git Practice
